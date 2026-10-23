@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Árvore Binária de Busca</string>
+    <string name="enter_valid_integer">Digite um número inteiro válido</string>
+    <string name="inserted_values_format">Inseridos: %1$s</string>
+    <string name="sorted_values_format">Em ordem crescente: %1$s</string>
+</resources>

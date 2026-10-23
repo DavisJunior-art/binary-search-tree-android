@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="450" viewBox="0 0 960 450" role="img" aria-labelledby="title desc">
+<title id="title">Árvore binária de busca após inserir os valores do desafio</title>
+<desc id="desc">Raiz 25. À esquerda, 15 com filhos 10 e 22; 10 tem filhos 4 e 12; 22 tem filhos 18 e 24. À direita, 50 com filhos 35 e 70; 35 tem filhos 31 e 44; 70 tem filhos 66 e 90.</desc>
+<rect width="960" height="450" rx="22" fill="#f4f6f3"/>
+<g stroke="#8aa99e" stroke-width="3" fill="none">
+<path d="M480 66L240 150M480 66L720 150"/>
+<path d="M240 162L120 250M240 162L360 250M720 162L600 250M720 162L840 250"/>
+<path d="M120 262L60 350M120 262L180 350M360 262L300 350M360 262L420 350"/>
+<path d="M600 262L540 350M600 262L660 350M840 262L780 350M840 262L900 350"/>
+</g>
+<g fill="#286858" stroke="#ffffff" stroke-width="4">
+<circle cx="480" cy="55" r="27"/><circle cx="240" cy="150" r="25"/><circle cx="720" cy="150" r="25"/>
+<circle cx="120" cy="250" r="24"/><circle cx="360" cy="250" r="24"/><circle cx="600" cy="250" r="24"/><circle cx="840" cy="250" r="24"/>
+<circle cx="60" cy="350" r="23"/><circle cx="180" cy="350" r="23"/><circle cx="300" cy="350" r="23"/><circle cx="420" cy="350" r="23"/><circle cx="540" cy="350" r="23"/><circle cx="660" cy="350" r="23"/><circle cx="780" cy="350" r="23"/><circle cx="900" cy="350" r="23"/>
+</g>
+<g fill="#fff" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" dominant-baseline="central">
+<text x="480" y="55">25</text><text x="240" y="150">15</text><text x="720" y="150">50</text>
+<text x="120" y="250">10</text><text x="360" y="250">22</text><text x="600" y="250">35</text><text x="840" y="250">70</text>
+<text x="60" y="350">4</text><text x="180" y="350">12</text><text x="300" y="350">18</text><text x="420" y="350">24</text><text x="540" y="350">31</text><text x="660" y="350">44</text><text x="780" y="350">66</text><text x="900" y="350">90</text>
+</g>
+<text x="480" y="420" fill="#657670" font-family="Arial, sans-serif" font-size="15" text-anchor="middle">Inserção sequencial: 25, 15, 50, 10, 22, 35, 70, 4, 12, 18, 24, 31, 44, 66, 90</text>
+</svg>
