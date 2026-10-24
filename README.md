@@ -4,7 +4,7 @@ Aplicativo Android Studio nativo em Kotlin para inserir e buscar valores em uma 
 
 ## Integrantes
 
-- Preencher com os nomes do grupo.
+Davis Tavares Amorim Junior
 
 ## Parte A — Implementação e estrutura da árvore
 
